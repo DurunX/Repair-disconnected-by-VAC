@@ -1,7 +1,8 @@
 # Repair-disconnected-by-VAC
 Repair disconnected by VAC
   
-修复被 VAC 系统断开连接[VAC]
+修复被 VAC 系统断开连接[VAC]  
+修复 VAC 屏蔽  
 修复被 Valve Anti Cheat 系统断开连接[VAC]  
 
 易语言编写，无任何模块。
