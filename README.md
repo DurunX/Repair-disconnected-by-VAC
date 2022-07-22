@@ -1,12 +1,12 @@
 # Repair-disconnected-by-VAC
 Repair disconnected by VAC
-
+  
 修复被 VAC 系统断开连接[VAC]
-修复被 Valve Anti Cheat 系统断开连接[VAC]
+修复被 Valve Anti Cheat 系统断开连接[VAC]  
 
 易语言编写，无任何模块。
-
-如果您要修改此程序并发布于网络，请遵循以下原则:
+  
+如果您要修改此程序并发布于网络，请遵循以下原则:  
 1.必须在软件启动时显示原作者信息[至少保留作者Bilibili主页地址]  
 2.必须在软件启动时显示标语:此文件是易语言编写且免费开源的，如您是付费获得，请立即退款。  
 3.必须在软件启动时公开显示此项目开源地址，即此Github地址。  
